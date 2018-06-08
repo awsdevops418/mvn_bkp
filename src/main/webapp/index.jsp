@@ -6,9 +6,9 @@
         <title>Hello Java EE Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Hello from SathyaTech</h1>
-        <h1>Demo Project from Devops</h1>
-        <h1>Hello SATISH KUMAR</h1>
+        <h1>Hello from VENKATA RAMUDU</h1>
+        <h1>KADAPA</h1>
+        <h1>JAI JAGAN</h1>
     </body>
 </html>
 <!DOCTYPE html>
