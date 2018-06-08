@@ -8,7 +8,7 @@
     <body>
         <h1> GOOD DAY </h1>
         <h1> NICE DAY </h1>
-        <h1> New HTML code added </h1> 
+        <h1> RAMUDU JENKINS GIT COMMIT </h1> 
         <h1> Demo Code for POLL SCM </h1> 
   <table border = "1" bordercolor = "green" bgcolor = "yellow">
          <tr>
